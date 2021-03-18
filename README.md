@@ -1,5 +1,13 @@
 # PHBPlugin
  Um plug-in completo para o Arcturus Emulator e em constante atualizações.
+ 
+# Compra
+- Pagamento único.
+- Atualizações ilimitadas.
+- Suporte para instalação.
+
+Valor: R$200
+Aceito Pix, PicPay, PayPal, Boleto, Depósito ou TED.
 
 # Comandos originais modificados
 ```
@@ -56,7 +64,8 @@
 :inv - Vê o inventário do usuário mencionado.
 :flaguser - Ativa ou desativa a troca de nome do usuário mencionado.
 :builder - Comando tele que é ativado somente se o usuário for dono do quarto.
-:blockcmd - Bloqueia um comando na sala. (há uma permissão para override)
+:blockcmd - Bloqueia um comando na sala. (há uma permissão para override).
+:nitro - Comando que habilita determinados ranks pré configurados a entrar automaticamente no quarto após o eventalert ser enviado.
 ```
 
 # Comandos divertidos
@@ -89,6 +98,7 @@ WiredEffectGiveUserCredits - Dá créditos ao usuário.
 WiredEffectGiveUserDuckets - Dá duckets ao usuário.
 WiredEffectGiveUserDiamonds - Dá diamantes ao usuário.
 WiredEffectGiveUserPoints - Dá pontos ao usuário.
+WiredEffectGiveUserFurniOneTime - Dá apenas um mobi ao usuário, não podendo conseguir outro prêmio no mesmo quarto.
 ```
 
 # Interações
