@@ -6,7 +6,7 @@
 - Atualizações ilimitadas.
 - Suporte para instalação.
 
-Valor: R$200
+- Valor: R$200
 - Aceito Pix, PicPay, PayPal, Boleto, Depósito ou TED.
 
 # Contato
