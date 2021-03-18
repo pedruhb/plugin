@@ -9,6 +9,11 @@
 Valor: R$200
 Aceito Pix, PicPay, PayPal, Boleto, Depósito ou TED.
 
+# Contato
+- WhatsApp: +55 21 99814-9241 (Favor não ligar)
+- Discord: PedroHB#9569
+- Facebook: https://www.facebook.com/pedruhb/
+
 # Comandos originais modificados
 ```
 :about - Comando about modificado, traduzido e com informações de pico de usuários e quartos.
