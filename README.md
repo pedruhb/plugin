@@ -6,9 +6,6 @@
 - Atualizações ilimitadas.
 - Suporte para instalação.
 
-- Valor: R$200
-- Aceito Pix, PicPay, PayPal, Boleto, Depósito ou TED.
-
 # Contato
 - WhatsApp: +55 21 99814-9241 (Favor não ligar)
 - Discord: PedroHB#9569
