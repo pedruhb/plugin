@@ -67,7 +67,7 @@
 :flaguser - Ativa ou desativa a troca de nome do usuário mencionado.
 :builder - Comando tele que é ativado somente se o usuário for dono do quarto.
 :blockcmd - Bloqueia um comando na sala. (há uma permissão para override).
-:nitro - Comando que habilita determinados ranks pré configurados a entrar automaticamente no quarto após o eventalert ser enviado.
+:nitrar - Comando que habilita determinados ranks pré configurados a entrar automaticamente no quarto após o eventalert ser enviado.
 :youtube [nome do video] - Pega o vídeo com o titulo correspondente, por meio da API v3 do Youtube. (configure sua api_key em emulator_settings).
 ```
 
