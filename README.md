@@ -68,6 +68,7 @@
 :builder - Comando tele que é ativado somente se o usuário for dono do quarto.
 :blockcmd - Bloqueia um comando na sala. (há uma permissão para override).
 :nitro - Comando que habilita determinados ranks pré configurados a entrar automaticamente no quarto após o eventalert ser enviado.
+:youtube [nome do video] - Pega o vídeo com o titulo correspondente, por meio da API v3 do Youtube. (configure sua api_key em emulator_settings).
 ```
 
 # Comandos divertidos
@@ -100,7 +101,6 @@ WiredEffectGiveUserCredits - Dá créditos ao usuário.
 WiredEffectGiveUserDuckets - Dá duckets ao usuário.
 WiredEffectGiveUserDiamonds - Dá diamantes ao usuário.
 WiredEffectGiveUserPoints - Dá pontos ao usuário.
-WiredEffectGiveUserFurniOneTime - Dá apenas um mobi ao usuário, não podendo conseguir outro prêmio no mesmo quarto.
 ```
 
 # Interações
@@ -130,7 +130,9 @@ Sistema de pico de usuários e quarto, onde é salvado na tabela "graficos_phbpl
 Sistema de websockets aprimorado, onde verifica se usuário recebeu a mensagem enviada, e se não, faz 10 tentativas em um intervalo de 300ms para garantir que seja entregue.
 Exibição da quantidade de respeitos recebidos no perfil do usuário.
 Bloqueio na utilização da feira livre para quem está com tradeban.
-Sistema anti-flop de comandos, caso o comando digitado não exista, ele retorna um sussurro e não mostra o comando que você digitou. (configurável através do emulator_settings)
+Sistema anti-flop de comandos, caso o comando digitado não exista, ele retorna um sussurro e não mostra o comando que você digitou. (configurável através do emulator_settings).
+Sistema de log de comandos staffs com informações do quarto.
+Sistema de logs de feira livre.
 ```
 
 
