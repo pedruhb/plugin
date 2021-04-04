@@ -18,14 +18,10 @@
 :userinfo - Comando de user info modificado, com informações dos pontos do premiar.
 :invisible - Comando invisible modificado, onde você continuará invisível caso mude de quarto, só desativando através do comando.
 :sit - Comando sit modificado com cooldown.
+:userinfo - Comando de user info modificado, com informações dos pontos do premiar.
 ```
 # Comandos de ferramentas
 ```
-:about - Comando about modificado, traduzido e com informações de pico de usuários e quartos.
-:empty - Comando de empty modificado, onde não apaga os raros ltd e gera suas moedas e diamantes antes de remover.
-:userinfo - Comando de user info modificado, com informações dos pontos do premiar.
-:invisible - Comando invisible modificado, onde você continuará invisível caso mude de quarto, só desativando através do comando.
-:sit - Comando sit modificado com cooldown.
 :buyroom - Comando de comprar quarto do Rosie, porém com verificação de tradeban.
 :sellroom - Comando de vender quarto do Rosie, porém com verificação de tradeban.
 :furnidata - Exibe informações do item.
@@ -69,6 +65,8 @@
 :blockcmd - Bloqueia um comando na sala. (há uma permissão para override).
 :nitrar - Comando que habilita determinados ranks pré configurados a entrar automaticamente no quarto após o eventalert ser enviado.
 :youtube [nome do video] - Pega o vídeo com o titulo correspondente, por meio da API v3 do Youtube. (configure sua api_key em emulator_settings).
+:roomcooldown [segundos] - Ativa o cooldown de mensagens da sala. (há uma permissão para override).
+:covid - Informações sobre o Coronavírus no Brasil, F.
 ```
 
 # Comandos divertidos
@@ -101,6 +99,7 @@ WiredEffectGiveUserCredits - Dá créditos ao usuário.
 WiredEffectGiveUserDuckets - Dá duckets ao usuário.
 WiredEffectGiveUserDiamonds - Dá diamantes ao usuário.
 WiredEffectGiveUserPoints - Dá pontos ao usuário.
+PHBWiredEffectWhisper - Wired modificado, removido o código que faz com que a mensagem dita pelo wired seja reconhecida pelo wired ativador de fala.
 ```
 
 # Interações
@@ -146,3 +145,4 @@ Contém partes de códigos dos plugins abaixo
 [websocket-plugin](https://git.krews.org/skeletor/websocket-plugin)
 
 [Veto](https://git.krews.org/official-plugins/veto)
+
